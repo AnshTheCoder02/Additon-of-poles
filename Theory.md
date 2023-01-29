@@ -3,6 +3,7 @@
 <strong>Theory:</strong> <br>The forward path transfer function of general second order system is given by,
 <br>
 <br>
+
 $$ {FPTF ~ G(s) ~ = \frac{w_n^2}{s(s+2ζw_n)}} $$
 <br>
 <br>
