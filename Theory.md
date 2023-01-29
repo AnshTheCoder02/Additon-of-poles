@@ -4,7 +4,7 @@
 <br>
 <br>
 
-$$ {FPTF ~ G(s) ~ = \frac{w_n^2}{s(s+2ζw_n)}} $$
+
 $$ {FPTF ~ G(s) ~ = \frac{w_n^2}{s(s+2ζw_n)}} $$
 
 <br>
